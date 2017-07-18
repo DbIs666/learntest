@@ -8,7 +8,7 @@ public class Demo {
 		System.out.println("This is a demo");
 		String message="这是一个示例咯";
 		System.out.println(message);
-
+		String mes="wo bu zhi dao !"
 	}
 
 }
