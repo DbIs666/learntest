@@ -6,7 +6,7 @@ public class Demo {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This is a demo");
-		String message="这是一个示例";
+		String message="杩欐槸涓�涓ず渚嬪挴";
 		System.out.println(message);
 
 	}
